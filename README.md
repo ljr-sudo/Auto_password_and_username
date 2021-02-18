@@ -1,0 +1,2 @@
+# Auto_password_and_username
+一个python随机自动用户名和密码生成装置
