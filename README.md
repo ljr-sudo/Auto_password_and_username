@@ -1,2 +1,5 @@
-# Auto_password_and_username
+## Auto_password_and_username
 一个python随机自动用户名和密码生成装置
+
+能够随机生成用户名和密码,并且可以自定义格式
+源代码和打包成的exe文件放在链接里了
